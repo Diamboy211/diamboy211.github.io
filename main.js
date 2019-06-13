@@ -1,6 +1,6 @@
-var clicks = 0
+var clickss = 0
 
-function clicks() {
-  clicks += 1;
-  document.getElementById("clicks").textContent = clicks
+function clickss() {
+  clickss += 1;
+  document.getElementById("clickss").textContent = clickss
 }
