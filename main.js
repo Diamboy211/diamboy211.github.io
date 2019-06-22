@@ -4,3 +4,5 @@ function clickss() {
   clickss += 1;
   document.getElementById("clickss").innerHTML = clickss
 }
+
+updateGUI(clickss, 50)
