@@ -5,4 +5,4 @@ function clickss() {
   document.getElementById("clickss").innerHTML = clickss
 }
 
-updateGUI(clickss, 50)
+setInterval(clickss, 50)
