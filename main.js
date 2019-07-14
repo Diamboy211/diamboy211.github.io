@@ -1,6 +1,6 @@
-var clickss = 0
+var clicks = 0
 
 function clickss() {
-  clickss += 1;
+  clicks += 1;
   document.getElementById("clickss").innerHTML = clickss
 }
